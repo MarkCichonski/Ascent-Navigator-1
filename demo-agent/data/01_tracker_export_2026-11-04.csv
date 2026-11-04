@@ -1,0 +1,18 @@
+Key,Workstream,Item,Type,Owner,Status,Planned Finish,Forecast Finish,Critical Path,Last Updated
+ATL-101,Data Migration,Load source system 1 (Legacy CRM accounts),Task,Priya Raman,Done,2026-10-16,2026-10-16,Y,2026-10-16
+ATL-102,Data Migration,Load source system 2 (Contacts),Task,Priya Raman,Done,2026-10-23,2026-10-22,Y,2026-10-22
+ATL-103,Data Migration,Load source system 3 (Order history),Task,Priya Raman,Done,2026-10-30,2026-10-30,Y,2026-10-30
+ATL-104,Data Migration,Load source system 4 (Support tickets),Task,Priya Raman,Done,2026-11-03,2026-11-02,N,2026-11-02
+ATL-105,Data Migration,Load source system 5 (Marketing lists),Task,Priya Raman,In Progress,2026-11-11,2026-11-11,N,2026-11-03
+ATL-M3,Data Migration,Milestone: All data loaded and reconciled,Milestone,Priya Raman,In Progress,2026-11-13,2026-11-13,Y,2026-11-03
+ATL-201,Integration,Order API build,Task,Marcus Lee,Done,2026-10-27,2026-10-29,Y,2026-10-29
+ATL-202,Integration,Billing API build,Task,Marcus Lee,In Progress,2026-11-04,2026-11-10,Y,2026-11-03
+ATL-203,Integration,Defect fix sprint (23 open defects),Task,Marcus Lee,In Progress,2026-11-06,2026-11-10,Y,2026-11-03
+ATL-M4,Integration,Milestone: Integration build complete,Milestone,Marcus Lee,At Risk,2026-11-06,2026-11-10,Y,2026-11-03
+ATL-301,Testing,Test environment stabilized,Task,J. Patel,Blocked,2026-11-02,2026-11-12,Y,2026-11-03
+ATL-302,Testing,UAT scripts written (140 of 180),Task,J. Patel,In Progress,2026-11-06,2026-11-06,N,2026-11-03
+ATL-M5,Testing,Milestone: UAT start,Milestone,J. Patel,At Risk,2026-11-09,2026-11-20,Y,2026-11-03
+ATL-401,Training & Change,Training materials draft,Task,Elena Ortiz,In Progress,2026-11-13,2026-11-13,N,2026-10-22
+ATL-402,Training & Change,Super-user network named,Task,Elena Ortiz,Done,2026-10-23,2026-10-23,N,2026-10-22
+ATL-M6,Program,Milestone: Go-live,Milestone,Program,At Risk,2026-12-14,2026-12-21,Y,2026-11-03
+CR-12,Program,Change request: add mobile view,Change Request,Program,Deferred to Phase 2,,,N,2026-10-28

@@ -1,0 +1,8 @@
+ID,Type,Title,Description,Owner,Status,Raised,Due,Last Changed,Change This Week
+I-04,Issue,UAT start slipped,UAT start forecast moved from Nov 9 to Nov 20 due to integration defects and unstable test environment. Go-live forecast now Dec 21 vs. Dec 14 plan.,J. Patel,Open,2026-11-03,2026-11-10,2026-11-03,New
+D-02,Decision,Fund QA contractor for UAT recovery,"Approve $18,000 for a QA contractor (6 weeks) to run parallel test cycles. Recovery plan returns go-live to Dec 14 if approved by Nov 10.",Dana Whitfield (Sponsor),Open,2026-11-03,2026-11-10,2026-11-03,New
+R-07,Risk,Test environment instability,Test environment outages (3 this week) delay test cycles. Mitigation: infra ticket raised; vendor support engaged.,J. Patel,Open,2026-10-20,2026-11-12,2026-11-03,Updated: probability raised to High
+R-09,Risk,Vendor API rate limits at cutover,Billing vendor API throttles bulk calls; cutover load may exceed limits. Mitigation: request temporary limit increase.,Marcus Lee,Open,2026-11-02,2026-11-20,2026-11-02,New
+R-05,Risk,Key-user availability for UAT,Key users have Thanksgiving week PTO; a UAT slip into late November reduces tester capacity.,Elena Ortiz,Open,2026-10-06,2026-11-20,2026-11-03,Updated: impact raised due to UAT slip
+A-03,Assumption,Legacy CRM read-only from Dec 7,Legacy CRM will be set read-only from Dec 7 to support final reconciliation.,Priya Raman,Open,2026-09-15,2026-12-07,2026-09-15,No change
+R-03,Risk,Data mapping sign-off,Business sign-off on field mapping.,Priya Raman,Closed,2026-09-01,2026-10-30,2026-10-30,No change (closed last week)
