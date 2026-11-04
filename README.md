@@ -53,9 +53,6 @@ Wednesdays, 6:00–8:00 PM ET, on Zoom.
 ├── workbook/
 │   ├── Navigator-Workbook.xlsx           ← your working file for Weeks 1–3
 │   └── Navigator-Workbook-Example.xlsx   ← fully worked example (weekly status report)
-├── canvas/
-│   ├── Navigator-Workflow-Canvas.docx            ← printable Week 1 canvas
-│   └── Navigator-Workflow-Canvas-Example.docx    ← worked example
 ├── demo-agent/
 │   ├── Project-Instructions.md      ← the agent's standing instructions
 │   ├── Backup-Sample-Output.md      ← what a good run looks like
